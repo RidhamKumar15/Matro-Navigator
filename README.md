@@ -1,6 +1,3 @@
-Here's the restructured version of your README with improved clarity and personalization while retaining the detailed explanation:
-
----
 
 # DELHI METRO RAIL APP  
 
@@ -32,5 +29,3 @@ For additional support, you can refer to resources like [Collections in Java](ht
 - Run `Map_main` to get started!  
 
 ---
-
-Let me know if you'd like further adjustments!
