@@ -4,7 +4,7 @@ Here's the restructured version of your README with improved clarity and persona
 
 # DELHI METRO RAIL APP  
 
-**Note:** This is NOT an Android application!  
+**Note:** This is NOT an Android application! 
 
 This Java program, created by **Ridham Kumar**, allows users to input the source and destination stations of the Delhi Metro to calculate the shortest metro route and fare. The program also includes a metro map for better navigation.  
 
@@ -16,7 +16,7 @@ The program uses data structures like **Graph** to represent the metro network.
 Algorithms like **Dijkstra's Algorithm**, **BFS**, and **DFS** are used to determine the shortest path between two stations. The fare is calculated based on the total distance traveled. Finally, the program displays the route and total fare.  
 
 ### Key Files  
-- `Main.java`: Contains the primary code logic.  
+- `Map_main.java`: Contains the primary code logic.  
 - `Heap.java`: Implements the heap data structure for efficient processing.  
 
 ### Requirements  
@@ -29,7 +29,7 @@ For additional support, you can refer to resources like [Collections in Java](ht
 ### Getting Started  
 - Clone the repository to your local machine.  
 - Open the project in your preferred IDE.  
-- Run `Main.java` to get started!  
+- Run `Map_main` to get started!  
 
 ---
 
